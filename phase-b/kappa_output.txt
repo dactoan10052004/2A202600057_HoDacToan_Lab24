@@ -1,0 +1,2 @@
+Cohen's kappa: 0.800
+Interpretation: Substantial agreement - production-ready.

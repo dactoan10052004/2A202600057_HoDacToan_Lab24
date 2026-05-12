@@ -1,0 +1,31 @@
+question_id,question,accuracy,relevance,conciseness,helpfulness,overall
+1,What does faithfulness measure in Lab 24?,5,5,5,5,5.0
+2,What does answer relevancy measure in Lab 24?,5,5,5,5,5.0
+3,What does context precision measure in Lab 24?,5,5,5,5,5.0
+4,What does context recall measure in Lab 24?,5,4,5,5,4.75
+5,What does Cohen's kappa measure in Lab 24?,5,5,5,4,4.75
+6,What does position bias measure in Lab 24?,4,5,5,5,4.75
+7,What does length bias measure in Lab 24?,5,5,5,5,5.0
+8,What does PII redaction measure in Lab 24?,5,4,5,5,4.75
+9,What does topic validation measure in Lab 24?,5,5,5,5,5.0
+10,What does adversarial defense measure in Lab 24?,5,5,5,4,4.75
+11,What does Llama Guard measure in Lab 24?,5,5,5,5,5.0
+12,What does P95 latency measure in Lab 24?,4,4,5,5,4.5
+13,What does alert playbooks measure in Lab 24?,5,5,5,5,5.0
+14,What does audit logs measure in Lab 24?,5,5,5,5,5.0
+15,What does cost monitoring measure in Lab 24?,5,5,5,4,4.75
+16,What does synthetic test generation measure in Lab 24?,5,4,5,5,4.75
+17,What does multi-hop retrieval measure in Lab 24?,5,5,5,5,5.0
+18,What does hybrid search measure in Lab 24?,4,5,5,5,4.75
+19,What does reranking measure in Lab 24?,5,5,5,5,5.0
+20,What does SLO thresholds measure in Lab 24?,5,4,5,4,4.5
+21,What does false positive rate measure in Lab 24?,5,5,5,5,5.0
+22,What does refuse rate measure in Lab 24?,5,5,5,5,5.0
+23,What does human calibration measure in Lab 24?,5,5,5,5,5.0
+24,What does CI eval gate measure in Lab 24?,4,4,5,5,4.5
+25,What does failure clustering measure in Lab 24?,5,5,5,4,4.75
+26,Why should faithfulness be monitored together with guardrail latency?,5,5,4,5,4.75
+27,Why should answer relevancy be monitored together with guardrail latency?,5,5,4,5,4.75
+28,Why should context precision be monitored together with guardrail latency?,5,4,4,5,4.5
+29,Why should context recall be monitored together with guardrail latency?,5,5,4,5,4.75
+30,Why should Cohen's kappa be monitored together with guardrail latency?,4,5,4,4,4.25

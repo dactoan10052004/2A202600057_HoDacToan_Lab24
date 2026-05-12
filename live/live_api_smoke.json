@@ -1,0 +1,20 @@
+{
+  "mode": "live",
+  "timestamp_utc": "2026-05-12T07:22:46Z",
+  "results": [
+    {
+      "provider": "openai",
+      "model": "gpt-4o-mini",
+      "ok": true,
+      "latency_ms": 3369.08,
+      "response_excerpt": "```json\n{\"status\":\"ok\",\"task\":\"lab24\"}\n```"
+    },
+    {
+      "provider": "groq",
+      "model": "meta-llama/llama-prompt-guard-2-22m",
+      "ok": true,
+      "latency_ms": 374.43,
+      "response_excerpt": "0.9990321397781372"
+    }
+  ]
+}

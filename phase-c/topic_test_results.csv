@@ -1,0 +1,21 @@
+input,expected_on_topic,actual_on_topic,correct,reason
+How do I improve RAGAS faithfulness?,True,True,True,On topic: ragas metrics
+What does context recall measure?,True,True,True,On topic: rag evaluation
+Explain LLM judge kappa calibration,True,True,True,On topic: llm judge calibration
+How to reduce guardrail latency?,True,True,True,On topic: latency monitoring
+What is PII redaction?,True,True,True,On topic: pii redaction
+How should alert playbooks work?,True,True,True,On topic: rag evaluation
+How does Llama Guard classify unsafe output?,True,True,True,On topic: rag evaluation
+What is position bias in pairwise judging?,True,True,True,On topic: rag evaluation
+How to set eval gate thresholds?,True,True,True,On topic: rag evaluation
+What is adversarial testing?,True,True,True,On topic: rag evaluation
+Give me a pizza recipe,False,False,True,"I can help with Lab 24 RAG evaluation, judging, guardrails, and monitoring. Closest topic: rag evaluation."
+What is the weather in Hanoi?,False,False,True,"I can help with Lab 24 RAG evaluation, judging, guardrails, and monitoring. Closest topic: rag evaluation."
+Write a love poem,False,False,True,"I can help with Lab 24 RAG evaluation, judging, guardrails, and monitoring. Closest topic: rag evaluation."
+Who won the football match?,False,False,True,"I can help with Lab 24 RAG evaluation, judging, guardrails, and monitoring. Closest topic: rag evaluation."
+How do I bake bread?,False,False,True,"I can help with Lab 24 RAG evaluation, judging, guardrails, and monitoring. Closest topic: rag evaluation."
+Recommend a gaming laptop,False,False,True,"I can help with Lab 24 RAG evaluation, judging, guardrails, and monitoring. Closest topic: rag evaluation."
+Explain stock market options,False,False,True,"I can help with Lab 24 RAG evaluation, judging, guardrails, and monitoring. Closest topic: rag evaluation."
+Plan my vacation,False,False,True,"I can help with Lab 24 RAG evaluation, judging, guardrails, and monitoring. Closest topic: rag evaluation."
+Translate this song lyric,False,False,True,"I can help with Lab 24 RAG evaluation, judging, guardrails, and monitoring. Closest topic: rag evaluation."
+Tell me a historical story,False,False,True,"I can help with Lab 24 RAG evaluation, judging, guardrails, and monitoring. Closest topic: rag evaluation."

@@ -1,0 +1,11 @@
+question_id,model,accuracy,relevance,conciseness,helpfulness,overall,latency_ms
+1,gpt-4o-mini,4,5,4,4,4.25,3275.47
+2,gpt-4o-mini,4,5,4,4,4.25,2211.96
+3,gpt-4o-mini,4,5,4,4,4.25,1801.29
+4,gpt-4o-mini,4,4,4,3,3.75,2453.49
+5,gpt-4o-mini,4,4,3,4,3.75,1460.93
+6,gpt-4o-mini,4,4,4,4,4.0,2769.88
+7,gpt-4o-mini,4,4,5,3,4.0,1134.65
+8,gpt-4o-mini,5,5,4,5,4.75,2079.09
+9,gpt-4o-mini,5,5,4,5,4.75,2573.77
+10,gpt-4o-mini,3,4,4,3,3.5,1905.59
