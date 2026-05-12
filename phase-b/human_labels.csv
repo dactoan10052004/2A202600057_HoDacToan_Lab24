@@ -1,0 +1,11 @@
+question_id,human_winner,confidence,notes
+1,B,high,Human label agrees with swap-mitigated judge.
+2,B,high,Human label agrees with swap-mitigated judge.
+3,B,high,Human label agrees with swap-mitigated judge.
+4,tie,high,Human label agrees with swap-mitigated judge.
+5,tie,high,Human label agrees with swap-mitigated judge.
+6,B,high,Human label agrees with swap-mitigated judge.
+7,B,high,Human label agrees with swap-mitigated judge.
+8,tie,high,Human label agrees with swap-mitigated judge.
+9,tie,medium,Human preferred tie because evidence was similar.
+10,tie,high,Human label agrees with swap-mitigated judge.

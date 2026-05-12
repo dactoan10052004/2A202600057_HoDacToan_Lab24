@@ -1,0 +1,4 @@
+question_id,question,sample_count,disagreement_score,hallucination_risk
+1,What does faithfulness measure?,3,0.896,high
+2,What is the latency target?,3,0.885,high
+3,What does Cohen's kappa measure?,3,0.862,high

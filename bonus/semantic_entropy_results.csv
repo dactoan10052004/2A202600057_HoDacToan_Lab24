@@ -1,0 +1,4 @@
+question_id,semantic_clusters,semantic_entropy_bits,uncertainty
+1,faithfulness;faithfulness;faithfulness,-0.0,low
+2,latency;latency;the_best_metric_is_answe,0.918,high
+3,calibration;calibration;calibration,-0.0,low
